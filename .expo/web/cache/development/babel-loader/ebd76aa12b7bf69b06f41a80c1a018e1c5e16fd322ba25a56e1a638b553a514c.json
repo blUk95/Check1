@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  white: '#fff'\n};","map":{"version":3,"names":["white"],"sources":["C:/Users/ohrib/AppData/Local/HospApp/assets/Shared/Colors.js"],"sourcesContent":["export default {\r\n    white: '#fff'\r\n}"],"mappings":"AAAA,eAAe;EACXA,KAAK,EAAE;AACX,CAAC"},"metadata":{},"sourceType":"module","externalDependencies":[]}
